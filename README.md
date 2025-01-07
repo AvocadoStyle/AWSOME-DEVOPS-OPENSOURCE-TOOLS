@@ -499,6 +499,7 @@
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
   * [ElasticSearch](https://www.elastic.co/) - Java based database, popular with log aggregation, and email archiving projects.
   * [MongoDB](https://www.mongodb.org/) - Another document-oriented database system.
+  * [LightDB](https://www.litedb.org/) - Another document-oriented database system, designed for embedded or simple applications.
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
 * Graph
